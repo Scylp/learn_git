@@ -4,5 +4,5 @@ change-1
 
 change-2
 
-create a new branch test
+create a new branch is quick & simple
 
